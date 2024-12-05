@@ -4,7 +4,7 @@ const Usericon = () => {
     return (
         <>
             <header class="px-2 py-4 mt-16 flex flex-col justify-center items-center text-center">
-                <img class="inline-flex object-cover border-4 border-indigo-600 rounded-full shadow-[5px_5px_0_0_rgba(0,0,0,1)] shadow-indigo-600/100 bg-indigo-50 text-indigo-600  !h-48 !w-48" src={image} alt="" />
+                <img class="inline-flex object-cover border-4 border-sky-600 rounded-full shadow-[5px_5px_0_0_rgba(0,0,0,1)] shadow-stone-600/100 bg-indigo-50 text-indigo-600  !h-48 !w-48" src={image} alt="" />
                 <h1 class="text-2xl text-gray-500 font-bold mt-2">
                     Abhishek Jupalli
                 </h1>
